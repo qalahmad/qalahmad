@@ -1,5 +1,5 @@
 # Hi, I'm Qusai 👋
-I am a third year Data science student at Simon Fraser University and a Software Developer Intern for Riipen!
+I am a third year Data science student at Simon Fraser University and a Software Developer Intern @ Riipen!
 
 🛠️ Languages and Tools:
 <div align="center">
