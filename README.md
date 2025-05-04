@@ -1,5 +1,5 @@
 # Hi, I'm Qusai 👋
-I am a third year Data science student at Simon Fraser University and a prev SE Intern @ The Scholarship Whizz & a Machine Learning Engineer @ AIModels Tech Inc.!
+I am a third year Data science student at Simon Fraser University and a prev SE Intern @ The Scholarship Whizz & a current Machine Learning Engineer @ AIModels Tech Inc.!
 
 🛠️ Languages and Tools:
 <div align="center">
