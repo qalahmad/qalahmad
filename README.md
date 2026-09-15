@@ -18,5 +18,5 @@ I am a third year Data science student at Simon Fraser University and a previous
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/>
-	<img width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/convex.svg" alt="Convex" title="Convex"/>
+	<img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" title="Convex"/>
 </div>
