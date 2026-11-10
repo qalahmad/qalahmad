@@ -1,5 +1,5 @@
 # Hi, I'm Qusai 👋
-I am a third year Data science student at Simon Fraser University and a previous SE Intern @ The Scholarship Whizz & a previous Machine Learning Engineer @ AIModels Tech Inc. & M2M Tech.
+ A Data Science student at Simon Fraser University, graduating in December 2026. I've worked as a Software Engineer at Havencraft, and I've worked as a Machine Learning Engineer at AI Models Tech Inc. and M2M Tech and as a Software Engineer Intern at The Scholarship Whizz.
 
 🛠️ Languages and Tools:
 <div align="center">
